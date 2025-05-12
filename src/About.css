@@ -1,0 +1,25 @@
+/* Container for the About Section */
+.about-container {
+  margin: 50px auto;
+  padding: 20px;
+  width: 100%; /* Adjust width to 50% of the screen */
+  text-align: left; /* Align content to the left */
+  position: relative;
+  right: 125%; /* Shift the container 25% from the left of the screen */
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Main Title Style */
+.about-title {
+  font-size: 4rem; /* Large font size */
+  font-weight: bold; /* Make the text bold */
+  color: #ffffff; /* Dark color for the title */
+  margin-bottom: 20px;
+}
+
+/* Subtitle Style */
+.about-subtitle {
+  font-size: 2.5rem; /* Large font size */
+  font-weight: bold; /* Make the text bold */
+  color: #ffffff; /* Slightly lighter color for the subtitle */
+}
